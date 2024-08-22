@@ -1,4 +1,4 @@
-package com.sunmiv2printer
+package com.sunmi
 
 import com.facebook.react.bridge.ReactApplicationContext
 import com.facebook.react.bridge.ReactContextBaseJavaModule

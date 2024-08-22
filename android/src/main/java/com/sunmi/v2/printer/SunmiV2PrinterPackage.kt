@@ -1,4 +1,4 @@
-package com.sunmiv2printer
+package com.sunmi
 
 import com.facebook.react.ReactPackage
 import com.facebook.react.bridge.NativeModule
